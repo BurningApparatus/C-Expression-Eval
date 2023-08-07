@@ -3,7 +3,8 @@ A simple arithmetic parser for mathematical expressions, written in C. It can ha
 
 # Build
 To build with gcc, run this command in the home directory:
-	gcc ./src/main.c -I ./include -o expression-parser.exe
+	
+ 	gcc ./src/main.c -I ./include -o expression-parser.exe
 
 
 
